@@ -2,7 +2,7 @@
 
 namespace Kadanin\NamedEntity;
 
-interface HasEntityNameInterface
+interface NamedEntityInterface
 {
     public static function entityName(): string;
 }
