@@ -1,0 +1,15 @@
+{
+  "name": "kadanin/named-entity",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Kadanin"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Kadanin\\NamedEntity\\": "src/"
+    }
+  }
+}
