@@ -7,6 +7,9 @@
     }
   ],
   "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.4"
+  },
   "autoload": {
     "psr-4": {
       "Kadanin\\NamedEntity\\": "src/"
